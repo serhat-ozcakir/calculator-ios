@@ -1,0 +1,1 @@
+const buton = document.querySelectorAll('.number')
